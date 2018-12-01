@@ -83,6 +83,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-01-helloworld-quick/pom.xml" />
       </list>
     </option>
   </component>

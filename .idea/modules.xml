@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-01-helloworld-quick/springboot-01-helloworld-quick.iml" filepath="$PROJECT_DIR$/springboot-01-helloworld-quick/springboot-01-helloworld-quick.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" filepath="$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-02-config-02/springboot-02-config-02.iml" filepath="$PROJECT_DIR$/springboot-02-config-02/springboot-02-config-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-03-logging/springboot-03-logging.iml" filepath="$PROJECT_DIR$/springboot-03-logging/springboot-03-logging.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_study.iml" filepath="$PROJECT_DIR$/springboot_study.iml" />
     </modules>
   </component>

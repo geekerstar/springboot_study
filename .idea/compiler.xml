@@ -9,12 +9,14 @@
         <module name="springboot-01-helloworld" />
         <module name="springboot-01-helloworld-quick" />
         <module name="springboot-02-config" />
+        <module name="springboot-02-config-02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-01-helloworld" target="1.6" />
       <module name="springboot-01-helloworld-quick" target="1.8" />
       <module name="springboot-02-config" target="1.8" />
+      <module name="springboot-02-config-02" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

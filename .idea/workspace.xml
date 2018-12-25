@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed567f0-effb-416c-8eb8-f3e05ed61377" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ed567f0-effb-416c-8eb8-f3e05ed61377" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/springboot-01-helloworld/target/" />
     <ignored path="$PROJECT_DIR$/springboot-01-helloworld-quick/target/" />
@@ -51,8 +45,9 @@
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="html" value="1" />
+          <entry key="ico" value="1" />
           <entry key="java" value="16" />
-          <entry key="properties" value="9" />
+          <entry key="properties" value="10" />
           <entry key="xml" value="6" />
           <entry key="yml" value="1" />
         </counts>
@@ -61,8 +56,9 @@
         <counts>
           <entry key="Git file" value="2" />
           <entry key="HTML" value="1" />
+          <entry key="Image" value="1" />
           <entry key="JAVA" value="16" />
-          <entry key="Properties" value="9" />
+          <entry key="Properties" value="10" />
           <entry key="XML" value="6" />
           <entry key="YAML" value="1" />
         </counts>
@@ -71,7 +67,7 @@
         <counts>
           <entry key="gitignore" value="10" />
           <entry key="java" value="88" />
-          <entry key="properties" value="8" />
+          <entry key="properties" value="73" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
@@ -79,7 +75,7 @@
         <counts>
           <entry key="Git file" value="10" />
           <entry key="JAVA" value="88" />
-          <entry key="Properties" value="8" />
+          <entry key="Properties" value="73" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -100,8 +96,17 @@
         <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="315">
+              <caret line="21" column="74" lean-forward="true" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -154,6 +159,7 @@
         <option value="$PROJECT_DIR$/springboot-03-logging/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -243,25 +249,7 @@
               <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -429,7 +417,7 @@
       <workItem from="1543630541944" duration="5501000" />
       <workItem from="1543841945758" duration="192000" />
       <workItem from="1545047092792" duration="29000" />
-      <workItem from="1545734463464" duration="788000" />
+      <workItem from="1545734463464" duration="1099000" />
     </task>
     <servers />
   </component>
@@ -439,7 +427,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6510000" />
+    <option name="totallyTimeSpent" value="6821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="941" extended-state="0" />
@@ -454,14 +442,14 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.32979977" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.32979977" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32979977" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32979977" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32979977" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32979977" />
       <window_info anchor="bottom" id="Statistic" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -676,11 +664,21 @@
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/public/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/resources/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="315">
+          <caret line="21" column="74" lean-forward="true" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
         </state>
       </provider>
     </entry>

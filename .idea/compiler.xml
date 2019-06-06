@@ -6,6 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="atguigu-spring-boot-starter" />
+        <module name="atguigu-spring-boot-starter-autoconfigurer" />
+        <module name="spring-boot-04-web-jsp" />
+        <module name="spring-boot-06-data-jdbc" />
+        <module name="spring-boot-06-data-jpa" />
+        <module name="spring-boot-06-data-mybatis" />
+        <module name="spring-boot-07" />
+        <module name="spring-boot-08-starter-test" />
         <module name="springboot-01-helloworld" />
         <module name="springboot-01-helloworld-quick" />
         <module name="springboot-02-config" />
@@ -15,6 +23,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="atguigu-spring-boot-starter" target="1.5" />
+      <module name="atguigu-spring-boot-starter-autoconfigurer" target="1.8" />
+      <module name="spring-boot-04-web-jsp" target="1.8" />
+      <module name="spring-boot-06-data-jdbc" target="1.8" />
+      <module name="spring-boot-06-data-jpa" target="1.8" />
+      <module name="spring-boot-06-data-mybatis" target="1.8" />
+      <module name="spring-boot-07" target="1.8" />
+      <module name="spring-boot-08-starter-test" target="1.8" />
       <module name="springboot-01-helloworld" target="1.6" />
       <module name="springboot-01-helloworld-quick" target="1.8" />
       <module name="springboot-02-config" target="1.8" />

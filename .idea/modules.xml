@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/atguigu-spring-boot-starter.iml" filepath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/atguigu-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/atguigu-spring-boot-starter-autoconfigurer.iml" filepath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/atguigu-spring-boot-starter-autoconfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-04-web-jsp/spring-boot-04-web-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-04-web-jsp/spring-boot-04-web-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-jpa/spring-boot-06-data-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-jpa/spring-boot-06-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-07/spring-boot-07.iml" filepath="$PROJECT_DIR$/spring-boot-07/spring-boot-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" filepath="$PROJECT_DIR$/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-01-helloworld/springboot-01-helloworld.iml" filepath="$PROJECT_DIR$/springboot-01-helloworld/springboot-01-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-01-helloworld-quick/springboot-01-helloworld-quick.iml" filepath="$PROJECT_DIR$/springboot-01-helloworld-quick/springboot-01-helloworld-quick.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" filepath="$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" />

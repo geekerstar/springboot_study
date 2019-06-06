@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ASMPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-04-web-jsp" />
+  </component>
   <component name="MarkdownProjectSettings" wasCopied="true">
     <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
       <PanelProvider>
@@ -88,6 +95,14 @@
         <option value="$PROJECT_DIR$/springboot-02-config-02/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-03-logging/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-07/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-08-starter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/pom.xml" />
       </list>
     </option>
   </component>

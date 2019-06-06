@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed567f0-effb-416c-8eb8-f3e05ed61377" name="Default Changelist" comment="" />
+    <list default="true" id="7ed567f0-effb-416c-8eb8-f3e05ed61377" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/springboot-01-helloworld/target/" />
     <ignored path="$PROJECT_DIR$/springboot-01-helloworld-quick/target/" />
@@ -9,6 +15,14 @@
     <ignored path="$PROJECT_DIR$/springboot-02-config-02/target/" />
     <ignored path="$PROJECT_DIR$/springboot-03-logging/target/" />
     <ignored path="$PROJECT_DIR$/springboot-04-web-restfulcrud/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-04-web-jsp/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-06-data-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-06-data-jpa/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-06-data-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-07/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-08-starter-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +47,17 @@
     <session id="-1764429685">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
+          <entry key="gitignore" value="3" />
           <entry key="html" value="1" />
           <entry key="ico" value="1" />
           <entry key="java" value="16" />
@@ -54,7 +68,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="2" />
+          <entry key="Git file" value="3" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
           <entry key="JAVA" value="16" />
@@ -68,7 +82,7 @@
           <entry key="gitignore" value="10" />
           <entry key="java" value="88" />
           <entry key="properties" value="73" />
-          <entry key="xml" value="6" />
+          <entry key="xml" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -76,56 +90,13 @@
           <entry key="Git file" value="10" />
           <entry key="JAVA" value="88" />
           <entry key="Properties" value="73" />
-          <entry key="XML" value="6" />
+          <entry key="XML" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/Springboot04WebRestfulcrudApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="74" lean-forward="true" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,8 +129,8 @@
         <option value="$PROJECT_DIR$/springboot-03-logging/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/springboot-03-logging/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml" />
       </list>
     </option>
   </component>
@@ -208,8 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,47 +186,17 @@
               <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_study" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-04-web-restfulcrud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -266,11 +205,15 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -342,6 +285,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBoot04WebJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot04WebJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot07Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-07" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot07Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08StarterTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-08-starter-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot08StarterTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Springboot01HelloworldQuickApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-01-helloworld-quick" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekerstar.Springboot01HelloworldQuickApplication" />
@@ -396,6 +381,12 @@
       <item itemvalue="Spring Boot.Springboot01HelloworldQuickApplication (1)" />
       <item itemvalue="Spring Boot.HelloWorldMainApplication" />
       <item itemvalue="JUnit.Springboot02ConfigApplicationTests" />
+      <item itemvalue="Spring Boot.SpringBoot04WebJspApplication" />
+      <item itemvalue="Spring Boot.SpringBoot06DataJpaApplication" />
+      <item itemvalue="Spring Boot.SpringBoot06DataJdbcApplication" />
+      <item itemvalue="Spring Boot.SpringBoot06DataMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringBoot07Application" />
+      <item itemvalue="Spring Boot.SpringBoot08StarterTestApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -417,7 +408,9 @@
       <workItem from="1543630541944" duration="5501000" />
       <workItem from="1543841945758" duration="192000" />
       <workItem from="1545047092792" duration="29000" />
-      <workItem from="1545734463464" duration="1099000" />
+      <workItem from="1545734463464" duration="1549000" />
+      <workItem from="1547191958572" duration="207000" />
+      <workItem from="1559805737666" duration="391000" />
     </task>
     <servers />
   </component>
@@ -427,19 +420,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6821000" />
+    <option name="totallyTimeSpent" value="7869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="941" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
       <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Sequence" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.32979977" />
@@ -457,6 +452,8 @@
       <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="ASM" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,24 +490,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-01-helloworld/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-01-helloworld/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -535,12 +525,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-02-config/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-02-config/src/test/java/com/geekerstar/Springboot02ConfigApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -628,12 +618,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-03-logging/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-03-logging/src/main/java/com/geekerstar/springboot/SpringBoot03LoggingApplication.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -642,52 +632,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/Springboot04WebRestfulcrudApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/public/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/resources/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/resources/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="74" lean-forward="true" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+        <state relative-caret-position="330">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/Springboot04WebRestfulcrudApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-boot-04-web-jsp:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>atguigu-spring-boot-starter-autoconfigurer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

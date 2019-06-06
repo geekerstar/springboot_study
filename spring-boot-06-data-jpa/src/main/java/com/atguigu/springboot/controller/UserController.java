@@ -14,13 +14,13 @@ public class UserController {
     UserRepository userRepository;
 
     @GetMapping("/user/{id}")
-    public User getUser(@PathVariable("id") Integer id){
+    public User getUser(@PathVariable("id") Integer id) {
         User user = userRepository.findOne(id);
         return user;
     }
 
     @GetMapping("/user")
-    public User insertUser(User user){
+    public User insertUser(User user) {
         User save = userRepository.save(user);
         return save;
     }

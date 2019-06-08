@@ -5,7 +5,7 @@
     <groovy codeStyle="LEGACY" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/spring-boot-04-web-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-04-web-jsp" />
   </component>
   <component name="MarkdownProjectSettings" wasCopied="true">
     <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
@@ -103,6 +103,19 @@
         <option value="$PROJECT_DIR$/spring-boot-08-starter-test/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-02-config-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-09-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-elastic/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-12-task/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-13-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-14-dubbo/consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-14-dubbo/provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-springcloud/consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-springcloud/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-springcloud/provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-16-deploy/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-17-actuator/pom.xml" />
       </list>
     </option>
   </component>

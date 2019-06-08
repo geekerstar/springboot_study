@@ -2,11 +2,195 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ed567f0-effb-416c-8eb8-f3e05ed61377" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot-08-starter-test/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/java/com/atguigu/springboot/ServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/main/java/com/atguigu/springboot/ServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/java/com/atguigu/springboot/SpringBoot04WebJspApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/main/java/com/atguigu/springboot/SpringBoot04WebJspApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/java/com/atguigu/springboot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/main/java/com/atguigu/springboot/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/webapp/WEB-INF/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/main/webapp/WEB-INF/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/webapp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/main/webapp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-04-web-jsp/src/test/java/com/atguigu/springboot/SpringBoot04WebJspApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-jsp/src/test/java/com/atguigu/springboot/SpringBoot04WebJspApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java/com/atguigu/springboot/SpringBoot06DataJdbcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/java/com/atguigu/springboot/SpringBoot06DataJdbcApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java/com/atguigu/springboot/config/DruidConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/config/DruidConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java/com/atguigu/springboot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/java/com/atguigu/springboot/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/resources/department.sql" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/resources/department.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jdbc/src/test/java/com/atguigu/springboot/SpringBoot06DataJdbcApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/test/java/com/atguigu/springboot/SpringBoot06DataJdbcApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springboot/SpringBoot06DataJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/src/main/java/com/atguigu/springboot/SpringBoot06DataJpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springboot/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/src/main/java/com/atguigu/springboot/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springboot/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/src/main/java/com/atguigu/springboot/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java/com/atguigu/springboot/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/src/main/java/com/atguigu/springboot/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-jpa/src/test/java/com/atguigu/springboot/SpringBoot06DataJpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jpa/src/test/java/com/atguigu/springboot/SpringBoot06DataJpaApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/SpringBoot06DataMybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/SpringBoot06DataMybatisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/bean/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/bean/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/bean/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/bean/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/config/DruidConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-jdbc/src/main/java/com/atguigu/springboot/config/DruidConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/controller/DeptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/mapper/DepartmentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/mapper/DepartmentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java/com/atguigu/springboot/mapper/EmployeeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/java/com/atguigu/springboot/mapper/EmployeeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/mybatis/mapper/EmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/resources/mybatis/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/sql/department.sql" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/resources/sql/department.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/sql/employee.sql" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/main/resources/sql/employee.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/test/java/com/atguigu/springboot/SpringBoot06DataMybatisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-06-data-mybatis/src/test/java/com/atguigu/springboot/SpringBoot06DataMybatisApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/main/java/com/atguigu/springboot/SpringBoot07Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/main/java/com/atguigu/springboot/SpringBoot07Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/main/java/com/atguigu/springboot/listener/HelloApplicationContextInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/main/java/com/atguigu/springboot/listener/HelloApplicationContextInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/main/java/com/atguigu/springboot/listener/HelloApplicationRunner(1).java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/main/java/com/atguigu/springboot/listener/HelloApplicationRunner(1).java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/main/java/com/atguigu/springboot/listener/HelloCommandLineRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/main/java/com/atguigu/springboot/listener/HelloCommandLineRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/main/java/com/atguigu/springboot/listener/HelloSpringApplicationRunListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/main/java/com/atguigu/springboot/listener/HelloSpringApplicationRunListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-07/src/test/java/com/atguigu/springboot/SpringBoot07ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-07/src/test/java/com/atguigu/springboot/SpringBoot07ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/.gitignore(1)" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/.gitignore(1)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/src/main/java/com/atguigu/springboot/SpringBoot08StarterTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/src/main/java/com/atguigu/springboot/SpringBoot08StarterTestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/src/main/java/com/atguigu/springboot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/src/main/java/com/atguigu/springboot/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter-test/src/test/java/com/atguigu/springboot/SpringBoot08StarterTestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter-test/src/test/java/com/atguigu/springboot/SpringBoot08StarterTestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/java/com/atguigu/starter/HelloProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/java/com/atguigu/starter/HelloProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/java/com/atguigu/starter/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/java/com/atguigu/starter/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/java/com/atguigu/starter/HelloServiceAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/java/com/atguigu/starter/HelloServiceAutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld-quick/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/src/main/java/com/geekerstar/Springboot01HelloworldQuickApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/src/main/java/com/geekerstar/springboot02config02/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld-quick/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld-quick/src/test/java/com/geekerstar/Springboot01HelloworldQuickApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/geekerstar/HelloWorldMainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/geekerstar/springboot02config02/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/geekerstar/HelloWorldMainApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/geekerstar/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config-02/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config-02/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config-02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/src/main/java/com/geekerstar/springboot02config02/SpringBoot02Config02Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/src/main/java/com/geekerstar/springboot02config02/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config-02/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config-02/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config-02/src/test/java/com/geekerstar/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/Springboot02ConfigApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/bean/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/bean/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/config/MyAppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/service/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/springboot02config02/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/resources/person.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/resources/person.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/test/java/com/geekerstar/Springboot02ConfigApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-logging/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/src/main/java/com/geekerstar/springboot/SpringBoot03LoggingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-logging/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-logging/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-logging/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-logging/src/test/java/com/geekerstar/springboot/Springboot03LoggingApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/Springboot04WebRestfulcrudApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/css/signin.css" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/css/signin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/img/bootstrap-solid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/feather.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/feather.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/static/asserts/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/commons/bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/commons/bar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/emp/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/emp/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/emp/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/emp/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/error/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/error/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/error/4xx.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/error/4xx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/error/5xx.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/error/5xx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/test/java/com/geekerstar/springboot/Springboot04WebRestfulcrudApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/springboot-01-helloworld/target/" />
@@ -23,6 +207,9 @@
     <ignored path="$PROJECT_DIR$/spring-boot-08-starter-test/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-02-config-autoconfig/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-09-cache/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-10-amqp/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,48 +234,50 @@
     <session id="-1764429685">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="3" />
+          <entry key="gitignore" value="5" />
           <entry key="html" value="1" />
           <entry key="ico" value="1" />
-          <entry key="java" value="16" />
+          <entry key="java" value="20" />
           <entry key="properties" value="10" />
           <entry key="xml" value="6" />
-          <entry key="yml" value="1" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="3" />
+          <entry key="Git file" value="5" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="20" />
           <entry key="Properties" value="10" />
           <entry key="XML" value="6" />
-          <entry key="YAML" value="1" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="10" />
+          <entry key="gitignore" value="18" />
           <entry key="java" value="88" />
           <entry key="properties" value="73" />
+          <entry key="txt" value="16" />
           <entry key="xml" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Git file" value="10" />
+          <entry key="Git file" value="18" />
           <entry key="JAVA" value="88" />
+          <entry key="PLAIN_TEXT" value="16" />
           <entry key="Properties" value="73" />
           <entry key="XML" value="21" />
         </counts>
@@ -96,7 +285,26 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-04-web-jsp/src/main/java/com/atguigu/springboot/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,7 +324,6 @@
         <option value="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/geekerstar/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-01-helloworld/.gitignore" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/springboot-01-helloworld-quick/src/main/java/com/geekerstar/springboot/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/springboot/bean/Dog.java" />
         <option value="$PROJECT_DIR$/springboot-02-config/pom.xml" />
@@ -131,6 +338,7 @@
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springboot-04-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -179,6 +387,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +401,6 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,6 +466,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HelloWorldMainApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-01-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.HelloWorldMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorldMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springboot-01-helloworld" />
       <extension name="coverage">
@@ -271,9 +486,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBoot01HelloworldQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-01-helloworld-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot01HelloworldQuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02Config02Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-02-config-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot02config02.SpringBoot02Config02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBoot02Config02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-02-config-02" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekerstar.springboot02config02.SpringBoot02Config02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot02ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigAutoconfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-02-config-autoconfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot02ConfigAutoconfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03LoggingApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot03LoggingApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -286,42 +536,49 @@
       </method>
     </configuration>
     <configuration name="SpringBoot04WebJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-04-web-jsp" />
+      <module name="springboot-04-web-jsp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot04WebJspApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBoot04WebRestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-04-web-restfulcrud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot04WebRestfulcrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-06-data-jdbc" />
+      <module name="springboot-06-data-jdbc" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataJdbcApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SpringBoot06DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-06-data-jpa" />
+      <module name="springboot-06-data-jpa" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataJpaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SpringBoot06DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-06-data-mybatis" />
+      <module name="springboot-06-data-mybatis" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataMybatisApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SpringBoot07Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-07" />
+      <module name="springboot-07" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot07Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SpringBoot08StarterTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-08-starter-test" />
+      <module name="springboot-08-starter-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot08StarterTestApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -379,14 +636,21 @@
       <item itemvalue="Spring Boot.SpringBoot02Config02Application" />
       <item itemvalue="Spring Boot.Springboot04WebRestfulcrudApplication" />
       <item itemvalue="Spring Boot.Springboot01HelloworldQuickApplication (1)" />
-      <item itemvalue="Spring Boot.HelloWorldMainApplication" />
-      <item itemvalue="JUnit.Springboot02ConfigApplicationTests" />
       <item itemvalue="Spring Boot.SpringBoot04WebJspApplication" />
       <item itemvalue="Spring Boot.SpringBoot06DataJpaApplication" />
       <item itemvalue="Spring Boot.SpringBoot06DataJdbcApplication" />
       <item itemvalue="Spring Boot.SpringBoot06DataMybatisApplication" />
       <item itemvalue="Spring Boot.SpringBoot07Application" />
       <item itemvalue="Spring Boot.SpringBoot08StarterTestApplication" />
+      <item itemvalue="Spring Boot.SpringBoot03LoggingApplication (1)" />
+      <item itemvalue="Spring Boot.SpringBoot04WebRestfulcrudApplication" />
+      <item itemvalue="Spring Boot.SpringBoot01HelloworldQuickApplication" />
+      <item itemvalue="Spring Boot.SpringBoot02ConfigApplication" />
+      <item itemvalue="Spring Boot.SpringBoot02Config02Application (1)" />
+      <item itemvalue="Spring Boot.HelloWorldMainApplication (1)" />
+      <item itemvalue="Spring Boot.SpringBoot02ConfigAutoconfigApplication" />
+      <item itemvalue="Spring Boot.HelloWorldMainApplication" />
+      <item itemvalue="JUnit.Springboot02ConfigApplicationTests" />
     </list>
     <recent_temporary>
       <list>
@@ -410,8 +674,17 @@
       <workItem from="1545047092792" duration="29000" />
       <workItem from="1545734463464" duration="1549000" />
       <workItem from="1547191958572" duration="207000" />
-      <workItem from="1559805737666" duration="391000" />
+      <workItem from="1559805737666" duration="2239000" />
+      <workItem from="1559924195503" duration="375000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringBoot高级">
+      <created>1559806711026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559806711026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -420,21 +693,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7869000" />
+    <option name="totallyTimeSpent" value="10092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="941" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Sequence" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.32979977" />
@@ -452,8 +722,9 @@
       <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
-      <window_info anchor="right" id="RestServices" />
-      <window_info anchor="right" id="ASM" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="17" />
+      <window_info anchor="bottom" id="Sequence" order="18" />
+      <window_info anchor="bottom" id="Tail" order="19" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -462,6 +733,8 @@
       <window_info anchor="right" id="Database" order="5" weight="0.32967034" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Bean Validation" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="ASM" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,6 +742,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SpringBoot高级" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot高级" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -497,13 +774,7 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-01-helloworld/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-01-helloworld/.gitignore" />
     <entry file="file://$PROJECT_DIR$/springboot-01-helloworld-quick/src/main/java/com/geekerstar/springboot02config02/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -517,9 +788,6 @@
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/bean/Dog.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-02-config/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -636,24 +904,10 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/resources/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -665,10 +919,48 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-06-data-mybatis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-02-config/src/main/java/com/geekerstar/bean/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-04-web-restfulcrud/src/main/java/com/geekerstar/springboot/Springboot04WebRestfulcrudApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-web-jsp/src/main/java/com/atguigu/springboot/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -726,7 +1018,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>atguigu-spring-boot-starter-autoconfigurer</last-edited>
+          <last-edited>springboot-02-amqp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/spring-boot-04-web-jsp" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-06-data-jdbc" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-06-data-jpa" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-06-data-mybatis" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-07" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-08-starter-test" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-01-helloworld" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-01-helloworld-quick" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-02-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-02-config-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-02-config-autoconfig" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-03-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-web-jsp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-04-web-restfulcrud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-06-data-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-06-data-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-06-data-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-07" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-starter-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-starter/atguigu-spring-boot-starter-autoconfigurer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-09-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-10-amqp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-11-elastic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-12-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-13-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-14-dubbo/consumer-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-14-dubbo/provider-ticket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-15-springcloud/consumer-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-15-springcloud/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-15-springcloud/provider-ticket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-16-deploy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-17-actuator" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
